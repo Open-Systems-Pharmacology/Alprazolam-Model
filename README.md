@@ -1,6 +1,8 @@
 # Alprazolam-Model
 Whole-body PBPK model of alprazolam.
 
+**The latest release of this model including a report on model building, model features and model evaluation can be found [here](../../releases/latest).**
+
 <p align="center">
   <img src="Alprazolam.png">
 </p> 
@@ -8,7 +10,7 @@ Whole-body PBPK model of alprazolam.
 This alprazolam model is intended to be used as victim drug in CYP3A4-mediated drug-drug interactions (DDI).
 
 This whole-body PBPK model of alprazolam has been developed based on clinical data ontained from the literature for intravenous (IV) administration and oral (PO) administration of immediate release tablets or extended-release formulation given in fasted state in healthy, non-obese adults. In total, 24 clinical studies were used for model development and evaluation. 
-Further information can be found in the report [here](../../blob/master/Evaluation_report_alprazolam.pdf).
+Further information can be found [here](../../releases/latest).
 
 ## Code of conduct
 
