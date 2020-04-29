@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Alprazolam",
-            "Path": "https://raw.githubusercontent.com/AndreDlm/Alprazolam-Model/master/Alprazolam.json",
+            "Path": "https://raw.githubusercontent.com/AndreDlm/Alprazolam-Model/master/Alprazolam-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": [
                 {
