@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Alprazolam",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Alprazolam-Model/master/Alprazolam-Model.json",
+            "Path": "../../Alprazolam-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": [
                 {
