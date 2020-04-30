@@ -1,9 +1,9 @@
 {
-    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.0/OSP_Qualification_Plan_Schema.json",
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
             "Id": "Alprazolam",
-            "Path": "https://raw.githubusercontent.com/AndreDlm/Alprazolam-Model/master/Alprazolam.json",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Alprazolam-Model/master/Alprazolam-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": [
                 {
