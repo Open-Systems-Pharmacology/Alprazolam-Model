@@ -4,11 +4,11 @@
 
 
 
-| Version                                         | 1.0-osp9.0                                                   |
+| Version                                         | x.x-ospy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/releases/tag/v1.0 |
-| OSP Version                                     | 9.0                                                          |
-| Qualification Framework Version                 | 2.1                                                          |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/releases/tag/vx.x |
+| OSP Version                                     | y.y                                                          |
+| Qualification Framework Version                 | z.z                                                          |
 
 
 
