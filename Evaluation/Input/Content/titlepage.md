@@ -4,7 +4,7 @@
 
 
 
-| Version                                         | x.x-ospy.y                                                   |
+| Version                                         | x.x-OSPy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
 | based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/releases/tag/vx.x |
 | OSP Version                                     | y.y                                                          |
