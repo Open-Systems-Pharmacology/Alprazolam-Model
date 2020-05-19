@@ -18,7 +18,7 @@ This repository contains:
 
 This alprazolam model is intended to be used as victim drug in CYP3A4-mediated drug-drug interactions (DDI).
 
-This whole-body PBPK model of alprazolam has been developed based on clinical data ontained from the literature for intravenous (IV) administration and oral (PO) administration of immediate release tablets or extended-release formulation given in fasted state in healthy, non-obese adults. In total, 24 clinical studies were used for model development and evaluation. 
+This whole-body PBPK model of alprazolam has been developed based on clinical data obtained from the literature for intravenous (IV) administration and oral (PO) administration of immediate release tablets or extended-release formulation given in fasted state in healthy, non-obese adults. In total, 24 clinical studies were used for model development and evaluation. 
 Further information can be found [here](../../releases/latest).
 
 ## Code of conduct
