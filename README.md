@@ -1,10 +1,7 @@
 # Alprazolam-Model
 Whole-body PBPK model of alprazolam.
 
-<p align="center">
-  <img src="Alprazolam.png">
-</p> 
-
+<a title="Alprazolam" href="https://commons.wikimedia.org/wiki/File:Alprazolam_structure.svg"><img width="128" alt="Alprazolam structure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Alprazolam_structure.svg/128px-Alprazolam_structure.svg.png"></a> 
 
 
 This repository contains:
