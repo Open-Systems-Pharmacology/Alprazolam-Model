@@ -1,6 +1,6 @@
 ### 2.2.1	In vitro / physicochemical data
 
-A literature search was carried out to collect available information on physicochemical properties of eryhtromycin. The obtained information from the literature is summarized in the table below and is used for model building.
+A literature search was carried out to collect available information on physicochemical properties of alprazolam. The obtained information from the literature is summarized in the table below and is used for model building.
 
 | **Parameter**             | **Unit** | **Literature**                                               | **Description**                                              |
 | :------------------------ | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -28,7 +28,7 @@ The following publications were found and used for model building and evaluation
 | Publication                            | Study description                                            |
 | :------------------------------------- | :----------------------------------------------------------- |
 | [Adams 1984](#5-References)            | IV single dose administration of 0.25 mg and 4 mg            |
-| [Bertz 1997](#5-References)           | IV single doseadministration of 2 mg (young subjects group)  |
+| [Bertz 1997](#5-References)           | IV single dose administration of 2 mg (young subjects group) |
 | [Eberts 1980](#5-References)          | PO single dose administration of 2 mg <sup>14</sup>C-alprazolam (no plasma concentration-time profile was reported, but the dose fraction excreted unchanged in urine was quantified) |
 | [Eller 1990](#5-References)           | PO single dose administration of 1 mg (Treatment C: IR tablet in fasted state) |
 | [Fleishaker 1989](#5-References)      | IV single dose administration of 1 mg (Treatment A)          |
