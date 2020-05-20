@@ -16,14 +16,14 @@ Unknown parameters were simultaneously optimized using all available PK data, in
 - 1 plasma concentration-time profile following single PO administration of 2 mg
 - 1 dose fraction excreted unchanged in urine following single PO administration of 2 mg
 
-Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility. The following parameters were identified using the Parameter Identification module provided in PK-Sim<sup>®</sup> and MoBi<sup>®</sup> ([Open Systems Pharmacology Documentation](# 5 References)):
+Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility. The following parameters were identified using the Parameter Identification module provided in PK-Sim<sup>®</sup> and MoBi<sup>®</sup> ([Open Systems Pharmacology Documentation](#5References)):
 
 - `Dissolution time (50% dissolved)`
 - `Dissolution shape`
 - `Specific intestinal permeability`
 - `Mucosa permeability (interstitial<->intracellular)`
 - `Lipophilicity`
-- `Metabolizing Enzyme - CYP3A4 - kact`
+- `Metabolizing Enzyme - CYP3A4 - kcat`
 - `Reference concentration CYP3A4` (only for Japanese subjects)
 - `GFR fraction`
 
