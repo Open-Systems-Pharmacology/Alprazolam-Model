@@ -1,5 +1,5 @@
 {
-  "Version": 76,
+  "Version": 77,
   "Individuals": [
     {
       "Name": "European (P-gp modified, CYP3A4 36 h)",
@@ -88,12 +88,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -203,6 +213,23 @@
             {
               "Name": "ColonSigmoid",
               "Value": 0.00010384615385
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -592,6 +619,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -634,6 +671,23 @@
               "Name": "Muscle",
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -749,6 +803,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -779,6 +843,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -802,6 +876,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -937,6 +1021,11 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1121,6 +1210,23 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1579,6 +1685,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1642,6 +1758,23 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1829,6 +1962,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1865,6 +2008,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -1891,6 +2044,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -2981,7 +3144,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -3357,7 +3521,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -3738,7 +3903,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -4160,7 +4326,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -4544,7 +4711,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -4942,7 +5110,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -5318,7 +5487,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -5694,7 +5864,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -6070,7 +6241,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -6446,7 +6618,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -6813,7 +6986,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -7288,7 +7462,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -7343,7 +7518,7 @@
               }
             },
             {
-              "Name": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Eller 1990 - Treatment C (fasting IR) - PO - 1 mg - Plasma - agg. (n=21)-ArithmeticMean",
               "X": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)|Time",
               "Y": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7354,7 +7529,7 @@
               }
             },
             {
-              "Name": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Friedman 1991 - Alprazolam group - PO - 1 mg - Plasma - agg. (n=22)-ArithmeticMean",
               "X": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)|Time",
               "Y": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7365,7 +7540,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1988 - Alprazolam group - PO - 1 mg - Plasma - agg. (n=12)-ArithmeticMean",
               "X": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|Time",
               "Y": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7376,7 +7551,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1992 - Alprazolam group, Placebo first - PO - 1 mg - Plasma - agg. (n=11)-ArithmeticMean",
               "X": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)|Time",
               "Y": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7387,7 +7562,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1998b - Alprazolam alone (Trial A) - PO - 1 mg - Plasma - agg. (n=7)-ArithmeticMean",
               "X": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)|Time",
               "Y": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7398,7 +7573,7 @@
               }
             },
             {
-              "Name": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Juhl 1984 - Healthy control group - PO - 1 mg - Plasma - agg. (n=17)-ArithmeticMean",
               "X": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)|Time",
               "Y": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7409,7 +7584,7 @@
               }
             },
             {
-              "Name": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 2000 - Control - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7420,7 +7595,7 @@
               }
             },
             {
-              "Name": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Kaplan 1998 - Young - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7431,7 +7606,7 @@
               }
             },
             {
-              "Name": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Kirkwood 1991 - Men - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7442,7 +7617,7 @@
               }
             },
             {
-              "Name": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Schmider 1999 - Alprazolam alone - PO - 1 mg - Plasma - agg. (n=9)-ArithmeticMean",
               "X": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)|Time",
               "Y": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7453,7 +7628,7 @@
               }
             },
             {
-              "Name": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Smith 1984 - Oral administration - PO - 1 mg - Plasma - agg. (n=6)-ArithmeticMean",
               "X": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)|Time",
               "Y": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7464,7 +7639,7 @@
               }
             },
             {
-              "Name": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Wennerholm 2005 - PO - 1 mg - Plasma - agg. (n=12)-ArithmeticMean",
               "X": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|Time",
               "Y": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7523,7 +7698,7 @@
               }
             },
             {
-              "Name": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Wennerholm 2005 - Figure 1 - PO - 1 mg - Plasma - agg. (n=12)-ArithmeticMean",
               "X": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|Time",
               "Y": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7534,7 +7709,7 @@
               }
             },
             {
-              "Name": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Smith 1984 - Oral administration - PO - 1 mg - Plasma - agg. (n=6)-ArithmeticMean",
               "X": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)|Time",
               "Y": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7545,7 +7720,7 @@
               }
             },
             {
-              "Name": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Schmider 1999 - Alprazolam alone - PO - 1 mg - Plasma - agg. (n=9)-ArithmeticMean",
               "X": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)|Time",
               "Y": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7556,7 +7731,7 @@
               }
             },
             {
-              "Name": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Kirkwood 1991 - Men - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7567,7 +7742,7 @@
               }
             },
             {
-              "Name": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Kaplan 1998 - Young - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7578,7 +7753,7 @@
               }
             },
             {
-              "Name": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Juhl 1984 - Healthy control group - PO - 1 mg - Plasma - agg. (n=17)-ArithmeticMean",
               "X": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)|Time",
               "Y": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7589,7 +7764,7 @@
               }
             },
             {
-              "Name": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 2000 - Control - PO - 1 mg - Plasma - agg. (n=8)-ArithmeticMean",
               "X": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7600,7 +7775,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1998b - Alprazolam alone (Trial A) - PO - 1 mg - Plasma - agg. (n=7)-ArithmeticMean",
               "X": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)|Time",
               "Y": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7611,7 +7786,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1992 - Alprazolam group, Placebo first - PO - 1 mg - Plasma - agg. (n=11)-ArithmeticMean",
               "X": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)|Time",
               "Y": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7622,7 +7797,7 @@
               }
             },
             {
-              "Name": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Greenblatt 1988 - Alprazolam group - PO - 1 mg - Plasma - agg. (n=12)-ArithmeticMean",
               "X": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|Time",
               "Y": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7633,7 +7808,7 @@
               }
             },
             {
-              "Name": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Friedman 1991 - Alprazolam group - PO - 1 mg - Plasma - agg. (n=22)-ArithmeticMean",
               "X": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)|Time",
               "Y": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7644,7 +7819,7 @@
               }
             },
             {
-              "Name": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Eller 1990 - Treatment C (fasting IR) - PO - 1 mg - Plasma - agg. (n=21)-ArithmeticMean",
               "X": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)|Time",
               "Y": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
               "CurveOptions": {
@@ -7972,7 +8147,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -8471,7 +8647,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -9240,7 +9417,8 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Glomerular Filtration-GFR"
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
