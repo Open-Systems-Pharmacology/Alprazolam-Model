@@ -1,4 +1,4 @@
-### 2.2.1	In vitro / physicochemical data
+### 2.2.1 In vitro / physicochemical data
 
 A literature search was carried out to collect available information on physicochemical properties of alprazolam. The obtained information from the literature is summarized in the table below and is used for model building.
 
@@ -19,7 +19,7 @@ A literature search was carried out to collect available information on physicoc
 
 <sup>c</sup> mean
 
-### 2.2.2	Clinical data
+### 2.2.2 Clinical data
 
 A literature search was carried out to collect alprazolam PK data in healthy adults. 
 
