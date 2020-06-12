@@ -3963,56 +3963,6 @@
           ],
           "Name": "Time Profile Analysis",
           "OriginText": "Alprazolam\nKroboth1988_IV_1mg+0.576mg\n2020-03-25 13:24"
-        },
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "mg/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Kroboth1988_IV_1mg_0.576mg_over8h-Alprazolam-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Kroboth1988_IV_1mg_0.576mg_over8h|Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Kroboth 1988 - 1.0 mg/2 min, then 72 µg/hr for 8 hours - Alprazolam - IV - 1.576 mg - Plasma - agg. (n=4)-Alprazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Kroboth 1988 - 1.0 mg/2 min, then 72 µg/hr for 8 hours - Alprazolam - IV - 1.576 mg - Plasma - agg. (n=4)|Time",
-              "Y": "Kroboth 1988 - 1.0 mg/2 min, then 72 µg/hr for 8 hours - Alprazolam - IV - 1.576 mg - Plasma - agg. (n=4)|ObservedData|Peripheral Venous Blood|Plasma|Alprazolam|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "OriginText": "Alprazolam\nKroboth1988_IV_1mg+0.576mg\n2020-03-25 13:24"
         }
       ]
     },
